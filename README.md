@@ -1,6 +1,8 @@
 # 📘 Estudo Dirigido: *Modern Control Systems* (13ª Edição)
 
-Este repositório reúne materiais de estudo e simulações práticas de capítulos selecionados do livro *Modern Control Systems* (13ª Edição), amplamente utilizado em disciplinas de Controle de Sistemas. O objetivo principal é aprofundar a compreensão teórica e aplicar conceitos por meio de simulações computacionais utilizando Python.
+Este repositório reúne materiais de estudo e simulações práticas de capítulos selecionados do livro Modern Control Systems (13ª Edição), de Richard C. Dorf e Robert H. Bishop — uma das principais referências acadêmicas na área de Engenharia de Controle. O livro aborda desde os conceitos fundamentais de sistemas dinâmicos até técnicas modernas de projeto e análise de sistemas de controle, com foco em aplicações práticas e resolução de problemas.
+
+Este estudo dirigido tem como objetivo consolidar o entendimento teórico por meio de resumos analíticos e reforçar a aplicação prática com simulações computacionais desenvolvidas em Python. Os materiais foram produzidos de forma colaborativa, seguindo uma sequência lógica de aprofundamento, ideal para estudantes de engenharia elétrica, eletrônica, mecatrônica e áreas afins.
 
 📌 **Capítulos estudados**: 4, 5, 6, 7, 10 e 13
 👨‍🎓 **Alunos**: Antonio Roberto, Aryelson Gonçalves
