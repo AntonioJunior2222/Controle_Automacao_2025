@@ -1,7 +1,3 @@
-Claro! Aqui está a versão reestruturada e mais descritiva do seu README, com os links ajustados conforme o modelo do Capítulo 4:
-
----
-
 # 📘 Estudo Dirigido: *Modern Control Systems* (13ª Edição)
 
 Este repositório reúne materiais de estudo e simulações práticas de capítulos selecionados do livro *Modern Control Systems* (13ª Edição), amplamente utilizado em disciplinas de Controle de Sistemas. O objetivo principal é aprofundar a compreensão teórica e aplicar conceitos por meio de simulações computacionais utilizando Python.
