@@ -5,7 +5,8 @@ Este repositório reúne materiais de estudo e simulações práticas de capítu
 Este estudo dirigido tem como objetivo consolidar o entendimento teórico por meio de resumos analíticos e reforçar a aplicação prática com simulações computacionais desenvolvidas em Python. Os materiais foram produzidos de forma colaborativa, seguindo uma sequência lógica de aprofundamento, ideal para estudantes de engenharia elétrica, eletrônica, mecatrônica e áreas afins.
 
 📌 **Capítulos estudados**: 4, 5, 6, 7, 10 e 13
-👨‍🎓 **Alunos**: Antonio Roberto, Aryelson Gonçalves
+
+## **Alunos**: Antonio Roberto, Aryelson Gonçalves
 
 ---
 
