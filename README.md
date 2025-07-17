@@ -61,7 +61,3 @@ A organização do repositório é dividida em duas pastas principais:
   * [`control`](https://python-control.readthedocs.io/) – Análise e projeto de sistemas de controle
   * `numpy` – Cálculo numérico
   * `matplotlib` – Geração de gráficos e visualizações
-
----
-
-Se quiser, posso adicionar também uma seção de "Como executar" ou "Pré-requisitos". Deseja incluir isso?
