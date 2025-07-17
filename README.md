@@ -23,17 +23,17 @@ A organização do repositório é dividida em duas pastas principais:
 ### **Capítulo 4 — Características de Sistemas de Controle com Retroação**
 
 * 📄 [Estudo Teórico](./Estudos_dos_Capitulos/Capitulo_4.ipynb)
-* ⚙️ [Simulação](./Simulaçoes_dos_Capitulos/Capitulo_4.ipynb)
+* ⚙️ [Simulação](./Simulaçao_dos_Capitulos/Capitulo_4.ipynb)
 
 ### **Capítulo 5 — Desempenho de Sistemas de Controle com Retroação**
 
 * 📄 [Estudo Teórico](./Estudos_dos_Capitulos/Capitulo_5.ipynb)
-* ⚙️ [Simulação](./Simulaçoes_dos_Capitulos/Capitulo_5.ipynb)
+* ⚙️ [Simulação](./Simulaçao_dos_Capitulos/Capitulo_5.ipynb)
 
 ### **Capítulo 6 — Estabilidade de Sistemas Lineares com Retroação**
 
 * 📄 [Estudo Teórico](./Estudos_dos_Capitulos/Capitulo_6.ipynb)
-* ⚙️ [Simulação](./Simulaçoes_dos_Capitulos/Capitulo_6.ipynb)
+* ⚙️ [Simulação](./Simulaçao_dos_Capitulos/Capitulo_6.ipynb)
 
 ### **Capítulo 7 — Método do Lugar das Raízes**
 
@@ -43,12 +43,12 @@ A organização do repositório é dividida em duas pastas principais:
 ### **Capítulo 10 — Projeto de Sistemas de Controle com Retroação**
 
 * 📄 [Estudo Teórico](./Estudos_dos_Capitulos/Capitulo_10.ipynb)
-* ⚙️ [Simulação](./Simulaçoes_dos_Capitulos/Capitulo_10.ipynb)
+* ⚙️ [Simulação](./Simulaçao_dos_Capitulos/Capitulo_10.ipynb)
 
 ### **Capítulo 13 — Sistemas de Controle Digital**
 
 * 📄 [Estudo Teórico](./Estudos_dos_Capitulos/Capitulo_13.ipynb)
-* ⚙️ [Simulação](./Simulaçoes_dos_Capitulos/Capitulo_13.ipynb)
+* ⚙️ [Simulação](./Simulaçao_dos_Capitulos/Capitulo_13.ipynb)
 
 ---
 
