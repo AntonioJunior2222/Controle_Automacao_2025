@@ -20,8 +20,8 @@ A organização do repositório é dividida em duas pastas principais:
 
 ### **Capítulo 4 — Características de Sistemas de Controle com Retroação**
 
-* 📄 [Estudo Teórico](./Estudos_dos_Capitulos/Capitulo_4.ipynb): Conceitos fundamentais de realimentação, funções de transferência e resposta temporal.
-* ⚙️ [Simulação](./Simulaçoes_dos_Capitulos/Capitulo_4.ipynb): Análises de polos e zeros, resposta a degrau e comportamento dinâmico de sistemas.
+* 📄 [Estudo Teórico](./Estudos_dos_Capitulos/Capitulo_4.ipynb)
+* ⚙️ [Simulação](./Simulaçoes_dos_Capitulos/Capitulo_4.ipynb)
 
 ### **Capítulo 5 — Desempenho de Sistemas de Controle com Retroação**
 
